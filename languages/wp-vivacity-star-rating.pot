@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Vivacity Star Rating 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 04:29+0530\n"
+"PO-Revision-Date: 2015-03-22 04:29+0530\n"
+"Last-Translator: Vivacity Infotech <supportntest@gmail.com>\n"
+"Language-Team: Team Vivacity <support@vivacityinfotech.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /opt/lampp/htdocs/wordpress/wp-content/plugins/\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: wp-vivacity-star-rating\n"
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:106
+msgid "General Settings"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:107
+msgid "Stars"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:108
+msgid "Save Settings"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:113
+msgid "Enable/Disable"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:121
+msgid "Allow guests to vote"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:129
+msgid "Show vote count"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:137
+msgid "Where to add rating"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:144
+msgid "Position of the Stars"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:155
+msgid "Shape of the Stars"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:165
+msgid "Color of the Stars"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:177
+msgid "Alignment in Respect To Posts"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:188
+msgid "Amount of Stars"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:196
+msgid "Save settings"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:203
+msgid "Live Preview"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:212
+msgid "Reset Votes"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:216
+msgid "You can reset votes by pressing button below."
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:218
+msgid "Reset votes"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:225
+msgid "Feedback Form"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:236
+msgid "Ener Your Email ID"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:238
+msgid "Ener Your Subject"
+msgstr ""
+
+#: wp-vivacity-star-rating/vivacity-star-rating-options.php:240
+msgid "Ener Your Comments"
+msgstr ""
+
+#: wp-vivacity-star-rating/wp-vivacity-star-rating.php:51
+msgid "WP Vivacity Star Rating"
+msgstr ""
+
